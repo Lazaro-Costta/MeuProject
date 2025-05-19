@@ -2,7 +2,7 @@ lista = []
 pares = []
 ímpares = []
 while True:
-    n = int(input('Digite um numero:'))
+    n = int(input('Digite um numero: '))
     lista.append(n)
     if n % 2 == 0:
         pares.append(n)
